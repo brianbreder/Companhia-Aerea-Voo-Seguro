@@ -21,7 +21,7 @@ Backlog do produto:
 
 ### SPRINT 1: (1 DIAS)  Ínicio: 02/12/2024 Fim: 03/12/2024
 <div align="center">
- <img src = "https://github.com/user-attachments/assets/cfbd6f04-9af0-4969-894b-608bc953d397" >
+ <img src = "https://github.com/user-attachments/assets/de9cc130-bbd3-4db1-8c1d-56b4b5a700ec" >
 </div>
 
  
