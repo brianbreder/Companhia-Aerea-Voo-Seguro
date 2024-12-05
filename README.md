@@ -49,3 +49,15 @@ Backlog do produto:
  
 
 ## Lista de assinaturas das funções e parâmetros: 
+
+
+
+## Casos de Teste das Funcionalidades
+
+
+
+## Considerações Adicionais
+
+
+
+## Conclusões 
