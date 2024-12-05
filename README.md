@@ -4,7 +4,7 @@
 ### Desenvolvedores: Pedro Henrique Roldão, Joao Vitor Russo, Bryan Breder, Davi Nunes
 
 <div align="center">
-<img src = "https://github.com/user-attachments/assets/1dfd790c-a75c-455d-8bb8-ffa97e28853a" width="500px" height="600px">
+<img src = "https://github.com/user-attachments/assets/58467434-67b1-4cfc-8cbf-e8b4f565a894" width="500px" height="600px">
 </div>
 
 ## Vídeo de apresentação: **(A ser colocado)**
