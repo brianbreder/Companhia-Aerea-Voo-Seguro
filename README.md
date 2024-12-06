@@ -52,8 +52,6 @@ Backlog do produto:
 
 ## Lista de assinaturas das funções e paramêtros
 
-## Funções de Processamento e Validação
-
 ### **`void limparBuffer()`**
 - **Assinatura:** `void limparBuffer()`
 - **Parâmetros:** Nenhum.
@@ -238,6 +236,8 @@ Backlog do produto:
 
 
   **Futuramente será implementando mais funcionalidades e será documentado a lista de assinatura e paramêtros tudo aqui.
+
+# Casos de Teste
 
 # Considerações Adicionais
 
